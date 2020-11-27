@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+     width:100%;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+header{
+	width:100%;
+	padding:20px;
+	
+}
+
+section{
+	width: 100%;
+	padding: 20px;
+}
